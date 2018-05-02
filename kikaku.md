@@ -1,7 +1,7 @@
 # タイトル:BOOK ON
 
 ![BOOK ON](./image1.jpeg )
-<img width="100px" height="auto" src="./image1.jpeg">
+<img width="300px" height="auto" src="./image1.jpeg">
  
 # イメージ
  - パックマン的な感じ(2D)
